@@ -152,18 +152,7 @@ Preview in GitHub dark mode for best look.
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=borys520&show_icons=true&count_private=true&theme=tokyonight" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borys520&layout=compact&theme=tokyonight" alt="top langs"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=borys520&theme=tokyonight" alt="streak"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=borys520&theme=tokyonight&row=1&column=7" alt="trophies"/>
-  </a>
 </p>
 
 <br/>
