@@ -1,16 +1,16 @@
 <!--
 README for github.com/borys520/borys520
-Tip: Preview in GitHub dark mode for best look. Replace TODOs with your links.
+Preview in GitHub dark mode for best look.
 -->
 
 <!-- ====== HEADER WAVE ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1116,100:3b82f6&height=200&section=header&text=Borys%20Kuśmirek&fontSize=48&fontAlignY=35&fontColor=ffffff" alt="Header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1116,100:3b82f6&height=200&section=header&text=Borys%20Ku%C5%9Bmirek&fontSize=48&fontAlignY=35&fontColor=ffffff" alt="Header">
 </p>
 
 <!-- ====== TYPING INTRO ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=900&center=true&vCenter=true&multiline=true&width=820&height=90&lines=Mobile+%26+Low-Code+Developer;Flutter%20%E2%80%A2%20Mendix%20%7C%20130k%2B%20downloads%20%7C%204.5%E2%98%85%20apps" alt="typing intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=900&center=true&vCenter=true&multiline=true&width=820&height=90&lines=Senior+Mendix+%26+Flutter+Developer;20%2B+Enterprise+Apps+%E2%80%A2+300K%2B+Downloads+%E2%80%A2+4.8%E2%98%85" alt="typing intro">
 </p>
 
 <!-- ====== BADGES ====== -->
@@ -24,98 +24,126 @@ Tip: Preview in GitHub dark mode for best look. Replace TODOs with your links.
 
 <!-- ====== ONE-LINER ====== -->
 <p align="center">
-  I build fast, ship clean UI, measure, iterate. Indie app dev • Flutter & Mendix • FPV drones & 3D printing on the side.
+  Senior Mendix Developer turning green-field ideas into production-grade solutions. 4+ years of end-to-end delivery across 7+ industries.<br/>
+  Flutter indie dev on the side — 300K+ downloads, 4.8★ ratings. FPV drones & 3D printing for fun.
 </p>
 
-<br/>
-
-<!-- ====== CONNECT ====== -->
-<h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/borys-ku%C5%9Bmirek/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" width="40" alt="LinkedIn"/>
-  </a>
-  <!-- Optional: add email/website when public
-  <a href="mailto:TODO@yourdomain.com"><img src="https://cdn.simpleicons.org/gmail/ffffff" height="32" width="40" alt="email"/></a>
-  <a href="https://TODO-portfolio.site" target="_blank"><img src="https://cdn.simpleicons.org/googlechrome/ffffff" height="32" width="40" alt="website"/></a>
-  -->
+  <a href="https://bk-dev-portfolio-2026.web.app"><b>🌐 Portfolio</b></a> ·
+  <a href="https://www.linkedin.com/in/borys-kusmirek/"><b>LinkedIn</b></a> ·
+  <a href="https://developerprofiles.mendix.com/link/profile/overview/956868"><b>Mendix Profile</b></a>
 </p>
 
 <br/>
 
 <!-- ====== HIGHLIGHTS ====== -->
-<h3 align="center">Highlights</h3>
+<h3 align="center">At a Glance</h3>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>4+</b><br/>Years</td>
+    <td align="center"><b>300K+</b><br/>Downloads</td>
+    <td align="center"><b>20+</b><br/>Enterprise Apps</td>
+    <td align="center"><b>7+</b><br/>Industries</td>
+    <td align="center"><b>4.8★</b><br/>App Rating</td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ====== EXPERIENCE ====== -->
+<h3 align="center">Experience</h3>
 <p align="center">
-  🇵🇱 Wrocław • 📱 Flutter (mobile) • 🧩 Mendix (DataGrid2, DeepLink, OQL, custom SCSS) <br/>
-  🚀 Apps across Google Play & App Store with <b>130k+ downloads</b> and <b>4.5★</b> avg ratings <br/>
-  🔧 RevenueCat, Firebase, analytics, payments • Offline-first & pragmatic architecture
+  <b>Senior Mendix Developer</b> — The Codest (Apr 2025 – Present)<br/>
+  <sub>Technical lead, architecture, custom connectors</sub><br/><br/>
+  <b>LowCode Developer</b> — Accenture (Mar 2024 – Apr 2025)<br/>
+  <sub>Healthcare & logistics, full product lifecycle, ISO compliance</sub><br/><br/>
+  <b>LowCode Developer</b> — Objectivity (Feb 2022 – Mar 2024)<br/>
+  <sub>SAP/REST integrations, knowledge leadership</sub>
 </p>
 
 <br/>
 
-<!-- ====== LANGUAGES & TOOLS (your original image style, improved & centered) ====== -->
+<!-- ====== ENTERPRISE PORTFOLIO ====== -->
+<h3 align="center">Enterprise Portfolio</h3>
+<p align="center"><i>Anonymized client work across 7+ industries</i></p>
+
+| Project | Industry | Scope |
+|:--------|:---------|:------|
+| Heavy Machinery Production Suite | Manufacturing | 3-app suite — component tracking, employee certification, machine leasing. Mendix, Java, REST, SAP |
+| Child Development Platform | Public Sector | Early childhood tracking for parents & professionals with role-based workflows |
+| Smoking Cessation Platform | Healthcare | Sole developer & product owner — full SDLC responsibility |
+| Waste Collection Management | Environmental | Driver routing with maps, citizen notifications |
+| Maritime Certification Ecosystem | Maritime/Shipping | 2-app system — SSO, worker certification tracking on Azure |
+| Assessment & Certification Platform | Corporate Services | Internal certifications, tests, quizzes with automated expiry tracking |
+| Game Certification Management | Gaming | Multi-jurisdiction compliance tracking & test lifecycle management |
+
+<br/>
+
+<!-- ====== SIDE PROJECTS ====== -->
+<h3 align="center">Side Projects</h3>
+<p align="center"><i>Solo-built from idea → App Store. Integrated OpenAI, Anthropic, Stability AI, Replicate, Google Gemini & more.</i></p>
+
+| Project | Category | Link |
+|:--------|:---------|:-----|
+| **Sleep & Dream Journal** | Mobile App | [thedreamyapp.web.app](https://thedreamyapp.web.app/) |
+| **AI Virtual Try-On** | AI Product | [outfii.app](https://outfii.app/) |
+| **AI Home Design** | AI Product | [roomstylerai.web.app](https://roomstylerai.web.app/) |
+| **AI Homework Helper** | Acquired | [studyai.web.app](https://studyai.web.app/) |
+| **TikTok Slideshows AI** | AI/Automation | [slidefarm.web.app](https://slidefarm.web.app/) |
+| **Gamified Habit Tracker** | Gamification | [peakline.web.app](https://peakline.web.app/) |
+| **Blood Pressure Tracker** | Health | [App Store](https://apps.apple.com/us/app/easy-blood-pressure-monitor/id6742362305) |
+| **Breathe Training** | Wellness | [resonance-7356.web.app](https://resonance-7356.web.app/) |
+| **Hairdresser Booking** | SaaS | — |
+
+<br/>
+
+<!-- ====== LANGUAGES & TOOLS ====== -->
 <h3 align="center">Languages & Tools</h3>
 
-<!-- Your original icon set, kept as images -->
 <p align="center">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/></a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="cordova" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <!-- Added badge for Mendix -->
-  <a href="https://www.mendix.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Mendix-1C1C1C?logo=mendix&logoColor=white" alt="mendix" height="40"/></a>
-  <!-- RevenueCat badge -->
-  <a href="https://www.revenuecat.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/RevenueCat-000?logoColor=white&labelColor=000&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHJvbGU9ImltZyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI5IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==" alt="revenuecat" height="40"/></a>
+  <a href="https://www.mendix.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Mendix-0CABF9?style=for-the-badge&logo=mendix&logoColor=white" alt="mendix"/></a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/></a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
 </p>
 
-<!-- (Optional) Compact skills strip using skillicons.dev -->
 <p align="center">
-  <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,android,firebase,postgres,sqlite,js,ts,react,nodejs,python,aws,gcp,postman,git&perline=8" alt="skills"/>
-  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/></a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="gcp"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/></a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="aws"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/></a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/></a>
+  <a href="https://www.revenuecat.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/RevenueCat-F25C54?style=for-the-badge&logoColor=white" alt="revenuecat"/></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="openai"/>
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logoColor=white" alt="anthropic"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="gemini"/>
+  <img src="https://img.shields.io/badge/Stability%20AI-5B2C6F?style=flat-square&logoColor=white" alt="stability"/>
+  <img src="https://img.shields.io/badge/Replicate-000?style=flat-square&logoColor=white" alt="replicate"/>
 </p>
 
 <br/>
 
-<!-- ====== FEATURED PROJECTS ====== -->
-<h3 align="center">Featured projects</h3>
-
+<!-- ====== CERTIFICATIONS ====== -->
+<h3 align="center">Certifications</h3>
 <p align="center">
-  <a href="https://github.com/borys520/TODO-country-days-tracker"><b>Country Days Tracker</b></a> — offline residency day counter for travelers (Flutter) <br/>
-  <a href="https://github.com/borys520/TODO-homework-helper"><b>Homework Helper (AI)</b></a> — explains math & homework with Markdown (Flutter + AI) <br/>
-  <a href="https://github.com/borys520/TODO-dream-analysis-ai"><b>Dream Analysis AI</b></a> — creative app with viral reach (16k+ TikTok)
-</p>
-
-<p align="center">
-  <!-- Drop GIFs/screens here later -->
-  <!-- <img src="assets/preview1.gif" height="220"/> <img src="assets/preview2.gif" height="220"/> -->
-</p>
-
-<p align="center">
-  <!-- Store badges (replace href with your public links) -->
-  <!--
-  <a href="https://play.google.com/store/apps/details?id=TODO"><img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/pl.svg" height="18"/> Google Play</a> ·
-  <a href="https://apps.apple.com/app/idTODO">App Store</a>
-  -->
+  🏅 Mendix Expert Developer <i>(in progress)</i><br/>
+  ✅ Mendix Advanced Developer ·
+  ✅ Mendix Intermediate Developer ·
+  ✅ Mendix Rapid Developer<br/>
+  ✅ Flutter & Dart Complete Guide ·
+  ✅ Oracle SQL Certification<br/>
+  ✅ TryHackMe — Web Fundamentals ·
+  ✅ TryHackMe — Jr Penetration Tester
 </p>
 
 <br/>
@@ -138,24 +166,20 @@ Tip: Preview in GitHub dark mode for best look. Replace TODOs with your links.
   </a>
 </p>
 
-<!-- Optional Activity Graph -->
-<!--
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=borys520&theme=tokyo-night" alt="activity graph"/>
-</p>
--->
-
 <br/>
 
-<!-- ====== NOW / CONTACT ====== -->
+<!-- ====== NOW ====== -->
 <h3 align="center">Now</h3>
 <p align="center">
-  Building Flutter apps with smooth UX and subscriptions • Optimizing Mendix apps (DataGrid2, DeepLink, OQL) • 3D printing (Bambu Lab A1 mini) • FPV drones
+  Leading Mendix architecture at The Codest · Pursuing Mendix Expert Certification · Building Flutter apps with AI integrations & subscriptions · 3D printing (Bambu Lab A1 mini) · FPV drones
 </p>
 
+<!-- ====== CONTACT ====== -->
 <h3 align="center">Contact</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/borys-ku%C5%9Bmirek/">LinkedIn</a> · <i>Remote freelance/contract friendly</i>
+  <a href="https://www.linkedin.com/in/borys-kusmirek/">LinkedIn</a> ·
+  <a href="https://developerprofiles.mendix.com/link/profile/overview/956868">Mendix Community</a> ·
+  <i>Remote freelance/contract friendly</i>
 </p>
 
 <br/>
@@ -164,9 +188,3 @@ Tip: Preview in GitHub dark mode for best look. Replace TODOs with your links.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0e1116&height=120&section=footer" alt="Footer">
 </p>
-
-<!-- ====== OPTIONAL EXTRAS ======
-Snake contribution animation (needs GH Action setup):
-<img src="https://raw.githubusercontent.com/borys520/borys520/output/snake.svg" alt="snake"/>
-See https://github.com/Platane/snk
--->
