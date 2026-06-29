@@ -10,7 +10,7 @@
 
 - **Acquired** — [AI Homework Helper](https://studyai.web.app/) · [Outfii](https://outfii.app/) (AI virtual try-on) · [Gamified Habit Tracker](https://peakline.web.app/)
 - **Building** — [Mevro](https://boryskusmirek.com/projects/mevro.html), an AI-scripted short-form video generator
-- **Live** — [Sleep & Dream Journal](https://thedreamyapp.web.app/) · [AI Home Design](https://roomstylerai.web.app/) · [TikTok Slideshows AI](https://slidefarm.web.app/) · [Blood Pressure Tracker](https://apps.apple.com/us/app/easy-blood-pressure-monitor/id6742362305) · [Breathe](https://resonance-7356.web.app/)
+- **Live** — [Offcue](https://offcue.web.app/) (teleprompter camera) · [Country Days Count](https://play.google.com/store/apps/details?id=com.borysk.countryDaysCount) · [Sleep & Dream Journal](https://thedreamyapp.web.app/) · [AI Home Design](https://roomstylerai.web.app/) · [TikTok Slideshows AI](https://slidefarm.web.app/) · [Blood Pressure Tracker](https://apps.apple.com/us/app/easy-blood-pressure-monitor/id6742362305) · [Breathe](https://resonance-7356.web.app/)
 - **Open source** — [Gemini MCP Server](https://github.com/Borys520/gemini-mcp-server) — 30+ tools bridging Google Gemini with Claude Code
 
 ### Stack
