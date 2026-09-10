@@ -2,7 +2,7 @@
 
 `4+ years` · `20+ enterprise apps` · `7+ industries` · `300K+ downloads` · `4.8★`
 
-**Now** — Leading Mendix architecture at The Codest. Building Flutter apps with AI integrations and subscriptions on the side. Pursuing Mendix Expert certification.
+**Now** — Leading Mendix architecture at BiModalSolutions. Building Flutter apps with AI integrations and subscriptions on the side. Pursuing Mendix Expert certification.
 
 **Enterprise** — Four years of end-to-end Mendix delivery across manufacturing, healthcare, public sector, maritime, gaming, logistics, and environmental services — architecture, custom Java connectors, and SAP / REST / SSO integrations.
 
