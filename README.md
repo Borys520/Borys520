@@ -7,7 +7,7 @@
 ### Products
 
 - **Acquired** — [StudyAI](https://studyai.web.app/) · [Outfii](https://outfii.app/) · [Peakline](https://peakline.web.app/) · [Dreamy](https://thedreamyapp.web.app/)
-- **Live** — [RoomStyler AI](https://apps.apple.com/app/id6453163893) · [Mevro](https://mevro.app/) · plus smaller utility apps on iOS and Android
+- **Live** — [RoomStyler AI](https://apps.apple.com/app/id6453163893) · [Blood Pressure Monitor](https://apps.apple.com/us/app/easy-blood-pressure-monitor/id6742362305) · plus smaller utility apps on iOS and Android
 - **Open source** — [gpt-image-2-mcp](https://www.npmjs.com/package/gpt-image-2-mcp) (npm) · [Gemini MCP Server](https://github.com/Borys520/gemini-mcp-server) (fork, 30+ tools) · [SplitScreener](https://github.com/Borys520/SplitScreener) (macOS window tiler)
 
 ### Stack
