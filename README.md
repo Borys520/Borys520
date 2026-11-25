@@ -1,8 +1,10 @@
-**Senior Mendix Developer · Capital Markets · AI & Automation**
+**Senior Mendix Developer · Finance Sector · AI & Automation**
 
 `~5 years` · `20+ enterprise apps` · `8 industries` · `Mendix Advanced Certified`
 
-**Now** — Senior Mendix Developer (contract) at Sapres Technologies GmbH, in capital markets. AI-first engineering: Claude Code daily, with my own MCP servers and agent tooling.
+Advanced-certified Mendix developer with nearly five years of end-to-end delivery, currently developing for the financial services sector. AI-first engineering: Claude Code daily, with my own MCP servers and agent tooling.
+
+**Now** — Senior Mendix Developer (contract), Sapres Technologies GmbH. Mendix development for a client in the financial services sector.
 
 ### Products
 
